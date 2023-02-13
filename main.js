@@ -1,1 +1,1 @@
-const lable = document.querySelectorAll
+// const lable = document.querySelectorAll
