@@ -13,3 +13,8 @@ closeMenu.addEventListener('click', () => {
   popUpp.style.display = 'none';
   openMenu.style.display = 'flex';
 });
+
+popUpp.addEventListener('click', () => {
+  popUpp.style.display = 'none';
+  openMenu.style.display = 'flex';
+});
